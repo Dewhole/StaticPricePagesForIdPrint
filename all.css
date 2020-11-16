@@ -265,7 +265,7 @@
     color: #EC008C;
     font-family: Roboto;
     font-style: normal;
-    font-weight: 300;
+    font-weight: 600;
     font-size: 24px;
     line-height: 100.38%;
     margin-right: 10px;
@@ -579,5 +579,75 @@
     font-style: normal;
     font-weight: bold;
     font-size: 36px;
+    line-height: 100.38%;
+    }
+.subTitle42{
+    position: absolute;
+    width: 1274px;
+    height: 49px;
+    left: 162px;
+    top: 654px;
+    font-family: Roboto Slab;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 100.38%;
+}
+.table-responsive42{
+    position: absolute;
+    width: 990px;
+    height: 46px;
+    left: 142px;
+    top: 723px;
+}
+.trTitle4{
+    padding: 20px;
+    min-width: 290px;
+}
+.ps4{
+        position: absolute;
+        width: 1271px;
+        height: 46px;
+        left: 165px;
+        top: 925px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 550;
+        font-size: 28px;
+        line-height: 100.38%;
+        /* or 24px */
+
+        display: flex;
+        align-items: center;
+
+        color: #000000;
+}
+.pink{
+    color: #EC008C;
+}
+.link{
+    color: grey;
+}
+.trString52{
+    min-width: 500px;
+}
+.trTitle52{
+    padding: 20px;
+    min-width: 410px;
+}
+
+
+/* Page 6 */
+
+.subTitle51{
+    position: absolute;
+    width: 950px;
+    height: 49px;
+    left: 162px;
+    top: 284px;
+    font-family: Roboto Slab;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
     line-height: 100.38%;
     }
