@@ -53,7 +53,7 @@
     position: absolute;
     left: 1500px;
 }
-.number{
+.number a{
     font-family: Roboto Slab;
     font-style: normal;
     font-weight: bold;
@@ -64,9 +64,10 @@
     display: flex;
     align-items: center;
     text-align: right;
-    
+    text-decoration: none;
     color: rgba(196, 196, 196, 0.3);
 }
+
 .text{
     font-family: Roboto;
     font-style: normal;
@@ -832,4 +833,83 @@
     line-height: 100.38%;
     /* or 24px */
 
+}
+
+/* Page 0 */
+
+.table-responsive91{
+    position: absolute;
+    width: 1250px;
+    height: 186px;
+    left: 142px;
+    top: 258px;
+    
+}
+.table-responsive92{
+    position: absolute;
+    width: 1250px;
+    height: 111px;
+    left: 142px;
+    top: 490px;
+}
+.table-responsive93{
+    position: absolute;
+    width: 1250px;
+    height: 111px;
+    left: 142px;
+    top: 631px;
+}
+.table-responsive94{
+    position: absolute;
+    width: 1250px;
+    height: 111px;
+    left: 142px;
+    top: 788px;
+
+}
+.widthTitle94{
+    min-width: 600px;
+}
+.trTitle9{
+    min-width: 380px;
+    padding: 20px;
+}
+
+/* Page 10 */
+
+.table-responsive101{
+    position: absolute;
+    width: 1150px;
+    height: 278px;
+    left: 142px;
+    top: 258px;
+}
+.table-responsive102{
+    position: absolute;
+    width: 1150px;
+    height: 186px;
+    left: 142px;
+    top: 555px;
+}
+.table-responsive103{
+    position: absolute;
+    width: 1150px;
+    height: 140px;
+    left: 142px;
+    top: 780px;
+}
+.tbody102{
+    min-width: 1150px;
+}
+.tbody103{
+    width: 1150px;
+}
+.priceTable1031{
+    min-width: 435px;
+}
+.priceTable1021{
+    min-width: 432px;
+  }
+.priceTable1020{
+    min-width: 284px;
 }
