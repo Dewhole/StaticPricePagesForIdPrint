@@ -238,6 +238,20 @@
     left: 520px;
     top: 599px;
 }
+.number12{
+    position: absolute;
+    width: 129px;
+    height: 99px;
+    left: 449px;
+    top: 699px;
+}
+.text12{
+    position: absolute;
+    width: 303px;
+    height: 99px;
+    left: 520px;
+    top: 699px;
+}
 
 /* page1 */
 .table-responsive{
@@ -912,4 +926,28 @@
   }
 .priceTable1020{
     min-width: 284px;
+}
+.table-responsive101{
+    position: absolute;
+    width: 1200px;
+    height: 140px;
+    left: 142px;
+    top: 258px;    
+}
+.table-responsive102{
+    position: absolute;
+    width: 1200px;
+    height: 140px;
+    left: 142px;
+    top: 402px; 
+}
+.table-responsive103{
+    position: absolute;
+    width: 1200px;
+    height: 140px;
+    left: 142px;
+    top: 549px;   
+}
+.widthTitle101{
+    min-width: 420px;
 }
